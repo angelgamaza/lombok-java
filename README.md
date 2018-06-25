@@ -1,2 +1,2 @@
-# lombok-java
-Lombok library java example.
+# Lombok java example
+Lombok library java example using differents objects and testing them.
